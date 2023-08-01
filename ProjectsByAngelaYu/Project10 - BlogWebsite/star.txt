@@ -1,0 +1,26 @@
+challenge 1 - Gold Star (HelpFromPreviousModules)
+challenge 2 - Gold Star (withHelpOfGoogleEJS-Docs)
+challenge 3 - Gold Star (withHelpOfGoogleEJS-Docs)
+challenge 4 - Gold Star (withHelpOfStackOverflow)
+challenge 5 - Gold Star (bySeeingPreviousChallengeCode)
+challenge 6 - Gold Star (bySelf)
+challenge 7 - Gold Star (bySelf)
+challenge 8 - Gold Star (bySeeingPreviousChallengeCode + bySelf)
+challenge 9 - Silver Star (withHelpOfGoogleBootstrap-Docs + bySelf)
+challenge 10 - Gold Star (withHelpOfGoogleW3school-Docs + bySelf)
+challenge 11 - Gold Star (withHelpOfGoogle + bySelf)
+challenge 12 - Zero Star (QuestionNotUnderstood)
+challenge 13 - Zero Star (NotGrappedConcepts)
+challenge 14 - Zero Star (NotGrappedConcepts)
+challenge 15 - Gold Star (bySeeingPreviousChallengeCode + bySelf)
+challenge 16 - Gold Star (withHelpOfGoogleExpress-DocsbySelf)
+challenge 17 - Bronze Star (withHelpOfGoogle + bySelf)
+challenge 18 - Silver Star (doneHalfAnswer + bySelf + withHelpOfGoogleLodash-Docs)
+challenge 19 - Silver Star (doneHalfAnswer + bySelf + withHelpOfGoogleStackOverflow-Docs)
+challenge 20 - Gold Star (withHelpOfGoogleStackOverflow + bySelf)
+challenge 21 - Gold Star (withHelpOfGoogleStackOverflow + bySelf)
+
+Result - Gold Star = 14
+         Silver Star = 3
+         Bronze Star = 1
+         Zero Star = 3

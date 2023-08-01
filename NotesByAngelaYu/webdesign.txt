@@ -1,0 +1,109 @@
+4 WEB DESIGN PRINCIPLES
+
+1. Color Theory
+2. Typography
+3. User Interface Design
+4. User Experience Design
+
+Beaware of the Mood of Color\
+Like
+Red-  Love, energy, intensity
+yellow - Joy, Intellect, Attention
+Green - Freshness, Safety, Growth
+blue - Stability, Trust, Serenity
+Purple - Royalty, Wealth, Feminity
+[choose logo color based on this mood of your company]
+
+COMBINING COLORS 
+To make thing Pop out Use Complementary Colors
+You can use Color Hunt or Color Adobe to Pick Combination of Colors
+You can visit different websites and see which color to pick to combine in order to website look good
+
+
+TYPOGRAPHY
+Fonts matter on basis of Mood, time user want to give, understandability, etc.
+If you want to look old go for old style serif
+If you want to look modern go for modern style serif
+
+EMOTION BEHIND Fonts
+1.Serif - traditional, stable, respectable
+2.Sans-serif - Sensible, simple, Straightforward
+3.Script - Personal, creative, Elegant
+4.Display - Friendly, Loud, Amusing
+5.Modern - Stylish, Chic, Smart
+
+Check how easy it is to read and how pleasurable it is to read
+Readability and legibility is Incredibly Important
+
+Legibility can be determined in fonts by -:
+1. open Shapes
+2. Ample intercharacter spacing
+3. Unambiguous forms
+4. Varying proportions
+
+Stick to 2 Fonts in One Design to look Professional - looks clean and tidy
+Find fonts with similar mood and time era with each other
+
+If you want to contrast-:
+then 1. serif and sans serif for heading non-heading
+     2. Dif Font Weight for heading and non-heading
+
+
+USER INTERFACE DESIGNS
+
+We always look first at bigger, bolder font and then at the lesser One
+1.HIERACHY
+Use this knowledge to define HIERACHY
+Use Font Size and Weight Hierachy to convey Important Message first
+
+For higher hierachy use contrasting Colors
+use contrasting colors to tell user pn what they should really look at
+
+2.LAYOUT
+different sizes and shapes to make the design interesting for the user
+Too long or tooo short layout to read the data makes it difficult to read for the user
+
+3.ALIGNMENT
+Same alignment across the website makes it look good
+Align all the things on a line
+Helps looking Professional
+Alignment will increase the design valuse without color,etc.
+
+4.WHITE SPACE
+Space some white are around the product or anything important it will help in looking the product more expensive
+Like what the jwellery shops do
+Too much content or text or branding makes it look cheap
+Add white space around to be expensive
+
+5.AUDIENCE
+There would be difference of what would be appealed to Tech people than those of management one 
+
+SOME OTHER POINTS
+Add flexibility in your DESIGNS
+
+
+USER EXPERIENCE DESIGN
+1.SIMPLICITY
+Keep thing simple , don't make it complicated
+Don't make too densed, otherwise mind of user will be blocked
+
+2.CONSISTENCY
+Keep design as well as functionality consistent
+Don't make different navbar or footer for different pages, it may confuse user where he walked through
+
+3.READING PATTERNS
+Which part user look at with which PATTERNS
+common pattern - F
+Put more important part in the left side of the website
+Other Pattern - Z
+Think how people look at website page and make the website easier for them
+
+4.ALL PLATFORM DESIGN
+Mobile and tablet responsive design
+Make sure website rearrange itself
+Do Professional test and ask for feedback on DESIGNS
+
+5.DON'T USE YOUR POWERS FOR EVILS
+Don't cheat user by designing cleverly
+
+

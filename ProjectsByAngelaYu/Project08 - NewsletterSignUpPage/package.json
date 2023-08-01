@@ -1,0 +1,16 @@
+{
+  "name": "newsletter-signup-page",
+  "version": "1.0.0",
+  "description": "This is a newsletter Sign Up page, where people can sign up with email to get our regular newsletter.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anant Choubey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
